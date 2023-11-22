@@ -1,6 +1,7 @@
 
 ![stocks](https://github.com/Umanginigam/Umanginigam/assets/125351370/08184fff-b32e-4e98-a516-8607a344fca9)
 Stock Recommendation System
+
 This C++ program is a simple stock recommendation system with user registration and login functionality. It analyzes stock data from a CSV file, providing recommendations based on profit margins, average historical price changes, and trading volume.
 
 Features
