@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umanginigam&label=Profile%20views&color=0e75b6&style=flat" alt="umanginigam" /> </p>
 
-- 🔭 I’m currently working on **Agritech**
+- 🔭 I’m currently working on **Research paper**
   
 - 🤝Let's unite our minds and create something extraordinary!
   
