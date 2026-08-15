@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" src="assets/avatar-wave.gif" alt="Umangi waving hello"/>
+<img width="200" src="/avatar-wave.gif" alt="Umangi waving hello"/>
 
 # Umangi Nigam
 
