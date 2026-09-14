@@ -4,7 +4,7 @@
 
 # Umangi Nigam
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=19&pause=1200&color=0B6770&vCenter=true&width=440&height=30&lines=Forward Deployed+Engineer+%C2%B7+Bengaluru%2C+India;Production+LLM%2C+RAG+and+Agentic+Systems;I+build+AI+that+survives+real+users" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=19&pause=1200&color=0B6770&vCenter=true&width=440&height=30&lines=AI+Engineer+%C2%B7+Bengaluru%2C+India;Production+LLM%2C+RAG+and+Agentic+Systems;I+build+AI+that+survives+real+users" alt="roles"/>
 
 <a href="https://www.linkedin.com/in/umangi-nigam"><img src="https://img.shields.io/badge/LinkedIn-0B6770?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nigamumangi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
